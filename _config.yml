@@ -13,7 +13,6 @@ author: William Jiménez Leal
 
 navbar-links:
   About Me: "aboutme"
-  Otra: "aqui" 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
